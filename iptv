@@ -53,7 +53,7 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 https://link.zozotv.xyz:443/Freemium1/unlimited99/47
 
 #EXTINF:-1 group-title="IDN" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://aputra.xyz/epg/RCTI.id.png" ,RCTI
-http://chostv.mobie.in/files/iptv/rcti.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF: group-title="IDN" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://aputra.xyz/epg/SCTV.id.png" ,SCTV
 https://link.zozotv.xyz:443/Freemium1/unlimited99/46
