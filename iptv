@@ -9,8 +9,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1487662180_b
 #EXTINF: group-title="LOKAL" tvg-id="MetroTV.id" tvg-name="MetroTV" tvg-logo="http://aputra.xyz/epg/MetroTV.id.png" ,MetroTV
 https://stream-03.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS6rnkIwzKBzlIuyIqCFIrt0)/dm/3/x75p70w/d/live-3.m3u8#cell=lsg1
  
-#EXTINF: group-title="LOKAL" tvg-name="TVONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdimTblEN83yy53Slpsu7teb3Oh4OQbh_-Kt9i8GQ-GQsM_9uO16HOg8WwrRnbXFu7bJc&usqp=CAU" ,TVONE
-https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybLXI_FbAvnKbvHpGp_kjBEk)/dm/3/x619221/s/live-1.m3u8#cell=lsg1
+#EXTINF: group-title="LOKAL" tvg-name="TVONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdimTblEN83yy53Slpsu7teb3Oh4OQbh_-Kt9i8GQ-GQsM_9uO16HOg8WwrRnbXFu7bJc&usqp=CAU" ,TVONE SD
+http://rr2.dens.tv/s/s105/01.m3u8?app_type=web&userid=107446&tkn=Z2SA8I04KNE1ZKYOSD6FYLNLTXCR8JUM&chname=tvOne
  
 #EXTINF:-1 group-title="LOKAL" tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://aputra.xyz/epg/ANTV.id.png" ,ANTV
 http://rr2.dens.tv/s/s07/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
