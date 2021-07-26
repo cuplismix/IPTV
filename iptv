@@ -8,13 +8,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1487662180_b
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",iNEWS
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="IDN",iNEWS
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
 #EXTINF:-1 group-title="IDN" tvg-logo="https://images.useetv.com/logo_beritasatu_big1.png?v=2.0.0.13" ,BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 group-title="WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" ,BERITA SATU WORLD
+#EXTINF:-1 group-title="IDN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" ,BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF: group-title="IDN" tvg-name="JAKARTA GLOBE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" ,JAKARTA GLOBE
@@ -34,7 +34,7 @@ https://stream-05.sg1.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXraZk3tWSBvhahu5IVA
 #EXTINF:-1 tvg-logo=" https://static.epg.best/id/MNCTV.id.png" group-title="IDN",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="LOKAL" tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://aputra.xyz/epg/ANTV.id.png" ,ANTV
+#EXTINF:-1 group-title="IDN" tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://aputra.xyz/epg/ANTV.id.png" ,ANTV
 http://rr2.dens.tv/s/s07/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
  
 #EXTINF: group-title="IDN" tvg-id="Indosiar.id" tvg-name="INDOSIAR " tvg-logo="http://aputra.xyz/olympic/official_indosiar.jpg" ,INDOSIAR
@@ -47,7 +47,7 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.kampungdesigner.com/wp-content/uploads/edd/2020/06/Logo-RTV-by-kampungdesigner.jpg" group-title="INDONESIA",RTV
+#EXTINF:-1 tvg-logo="https://www.kampungdesigner.com/wp-content/uploads/edd/2020/06/Logo-RTV-by-kampungdesigner.jpg" group-title="IDN",RTV
  
 #EXTINF:-1 group-title="IDN" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://aputra.xyz/epg/RCTI.id.png" ,RCTI
 https://link.zozotv.xyz:443/Freemium1/unlimited99/47
@@ -62,7 +62,7 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="INDONESIA",GTV
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="IDN",GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
  
 #EXTINF:0 group-title="IDN" tvg-id="TRANSTVHD.id" tvg-name="Trans TV FHD" tvg-logo="http://aputra.xyz/epg/TransTV.id.png" ,Trans TV
