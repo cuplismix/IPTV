@@ -76,3 +76,6 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/44
  
 #EXTINF:0 group-title="IDN" tvg-id="NET.id" tvg-name="NET" tvg-logo="http://aputra.xyz/epg/netHD.png" ,NET
 https://link.zozotv.xyz:443/Freemium1/unlimited99/50
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal",40. Magna TV 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
