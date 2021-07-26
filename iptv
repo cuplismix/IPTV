@@ -9,8 +9,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1487662180_b
 #EXTINF: group-title="IDN" tvg-id="MetroTV.id" tvg-name="MetroTV" tvg-logo="http://aputra.xyz/epg/MetroTV.id.png" ,MetroTV
 https://stream-03.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS6rnkIwzKBzlIuyIqCFIrt0)/dm/3/x75p70w/d/live-3.m3u8#cell=lsg1
  
-#EXTINF: group-title="IDN" tvg-name="TVONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdimTblEN83yy53Slpsu7teb3Oh4OQbh_-Kt9i8GQ-GQsM_9uO16HOg8WwrRnbXFu7bJc&usqp=CAU" ,TVONE SD
-http://rr2.dens.tv/s/s105/01.m3u8?app_type=web&userid=107446&tkn=Z2SA8I04KNE1ZKYOSD6FYLNLTXCR8JUM&chname=tvOne
+#EXTINF: group-title="IDN" tvg-name="TVONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdimTblEN83yy53Slpsu7teb3Oh4OQbh_-Kt9i8GQ-GQsM_9uO16HOg8WwrRnbXFu7bJc&usqp=CAU" ,TV ONE
+https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybLXI_FbAvnKbvHpGp_kjBEk)/dm/3/x619221/s/live-1.m3u8#cell=lsg1
+
+#EXTINF:0 group-title="IDN" tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="http://aputra.xyz/epg/KompasTv.id.png" ,KOMPAS TV
+https://stream-05.sg1.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXraZk3tWSBvhahu5IVAG0iW4)/dm/3/x72rofw/d/live-3.m3u8#cell=lsg1
  
 #EXTINF:-1 group-title="IDN" tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://aputra.xyz/epg/ANTV.id.png" ,ANTV
 http://rr2.dens.tv/s/s07/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
@@ -23,8 +26,9 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/45
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="IDN",INDOSIAR SD
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
  
-#EXTINF:-1 group-title="IDN" tvg-id="rtv" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" ,RTV SD
-http://rr2.dens.tv/s/s12/01.m3u8?app_type=web&userid=107446&tkn=5GFKWVFGTJY0ZOUAHI2WNOUZZRTQ6FM0&chname=RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.kampungdesigner.com/wp-content/uploads/edd/2020/06/Logo-RTV-by-kampungdesigner.jpg" group-title="INDONESIA",RTV
  
 #EXTINF:-1 group-title="IDN" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://aputra.xyz/epg/RCTI.id.png" ,RCTI HD
 https://link.zozotv.xyz:443/Freemium1/unlimited99/47
