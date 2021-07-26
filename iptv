@@ -52,9 +52,6 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #EXTINF:-1 group-title="IDN" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://aputra.xyz/epg/RCTI.id.png" ,RCTI
 https://link.zozotv.xyz:443/Freemium1/unlimited99/47
 
-#EXTINF:-1 group-title="IDN" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://aputra.xyz/epg/RCTI.id.png" ,RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
 #EXTINF: group-title="IDN" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://aputra.xyz/epg/SCTV.id.png" ,SCTV
 https://link.zozotv.xyz:443/Freemium1/unlimited99/46
  
@@ -83,5 +80,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b388400
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3b/Logo_Jawapos_TV.png" group-title="IDN" ,JawaPos TV
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="IDN" ,RODJA TV
+#EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_1640x856.png" group-title="IDN" ,RODJA TV
 https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w247407187_b1596000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nusantara_TV.png/300px-Nusantara_TV.png" group-title="IDN" ,Nusantara TV
+https://v6.siar.us/nusantaratv/live/chunks.m3u8?nimblesessionid=29874154
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="IDN" ,DAAI TV
+https://dcunilive7-lh.akamaihd.net/i/dclive_1@135498/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1627403810~acl=%2fi%2fdclive_1%40135498*~data=hdntl~hmac=02702bb92fd2a63f49afa2da5ca85f28d475ab313ffb7d29a72854f426f53be3
+
+
