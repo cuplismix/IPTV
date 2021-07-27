@@ -1,6 +1,6 @@
 #EXTM3U
 
-====================================================== KIDS ======================================================
+================================================================== KIDS ===================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -41,7 +41,7 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/New_Nick_Logo_2015.jpg" group-title="KIDS" ,Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-====================================================== ID ======================================================
+================================================================== ID ====================================================================
 
 #EXTINF:-1 group-title="ID" tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://aputra.xyz/epg/ANTV.id.png" ,ANTV
 http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
@@ -133,7 +133,7 @@ https://cdn10jtedge.useetv.com/joss/133/useeprime/chunklist_w2079877953_b894100_
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 
 
-====================================================== REGION ======================================================
+================================================================== REGION ====================================================================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="REGION" ,ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
