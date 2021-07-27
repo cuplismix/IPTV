@@ -203,10 +203,13 @@ http://122.248.43.138:1935/ch25/myStream/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/h43TvgzW/aku-gratis-tvdesa.jpg" group-title="REGION", TV DESA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h43TvgzW/aku-gratis-tvdesa.jpg" group-title="REGION" ,TV DESA
 http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcnbJd3/TVTPI.png" group-title=REGION",TVTPI 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0spsD6X/tvku.png" group-title="REGION" ,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcnbJd3/TVTPI.png" group-title=REGION" ,TVTPI 
 http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
 
 
