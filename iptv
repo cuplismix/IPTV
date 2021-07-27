@@ -108,7 +108,7 @@ https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1 tvg-id="useephoto" tvg-logo="https://i.postimg.cc/hjmdHDz8/logo-useephoto-big.png" group-title="IDN" ,USEE PHOTO
-#EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720p" https://cdn10jtedge.useetv.com/joss/133/useephoto/chunklist_w1297909260_b1344100_sleng.m3u8?enc=c_f9K4QIE1fqzeTlKcspiA&uid=&exp=1627372703
+https://cdn10jtedge.useetv.com/joss/133/useephoto/chunklist_w1297909260_b1344100_sleng.m3u8?enc=c_f9K4QIE1fqzeTlKcspiA&uid=&exp=1627372703
 
 #EXTINF:-1 tvg-id="useeprime" tvg-logo="https://i.postimg.cc/fWxdCbhD/logo-useeprime-big1.png" group-title="LOKAL",USEE PRIME
 http://gpc.my.id/usee/useeprime.m3u8
