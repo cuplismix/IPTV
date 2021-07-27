@@ -127,14 +127,17 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="ID" ,THE INDONESIA CHANNEL
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 
-#EXTINF:0 group-title="ID" tvg-id="TRANS7HD.id" tvg-name="Trans7 FHD" tvg-logo="http://aputra.xyz/epg/Trans7.id.png" ,Trans 7
+#EXTINF:0 group-title="ID" tvg-id="TRANS7HD.id" tvg-name="Trans7 FHD" tvg-logo="http://aputra.xyz/epg/Trans7.id.png" ,TRANS 7
 https://link.zozotv.xyz:443/Freemium1/unlimited99/44
 
-#EXTINF:0 group-title="ID" tvg-id="TRANSTVHD.id" tvg-name="Trans TV FHD" tvg-logo="http://aputra.xyz/epg/TransTV.id.png" ,Trans TV
+#EXTINF:0 group-title="ID" tvg-id="TRANSTVHD.id" tvg-name="Trans TV FHD" tvg-logo="http://aputra.xyz/epg/TransTV.id.png" ,TRANS TV
 https://link.zozotv.xyz:443/Freemium1/unlimited99/43
  
 #EXTINF: group-title="ID" tvg-name="TVONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdimTblEN83yy53Slpsu7teb3Oh4OQbh_-Kt9i8GQ-GQsM_9uO16HOg8WwrRnbXFu7bJc&usqp=CAU" ,TV ONE
 https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybLXI_FbAvnKbvHpGp_kjBEk)/dm/3/x619221/s/live-1.m3u8#cell=lsg1
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="ID" ,TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
