@@ -74,7 +74,7 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/44
 #EXTINF:0 group-title="IDN" tvg-id="NET.id" tvg-name="NET" tvg-logo="http://aputra.xyz/epg/netHD.png" ,NET
 https://link.zozotv.xyz:443/Freemium1/unlimited99/50
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="IDN" ,Magna TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="IDN" ,Magna TV 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3b/Logo_Jawapos_TV.png" group-title="IDN" ,JawaPos TV
@@ -84,9 +84,9 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w247407187_b1596000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nusantara_TV.png/300px-Nusantara_TV.png" group-title="IDN" ,Nusantara TV
-https://v6.siar.us/nusantaratv/live/chunks.m3u8?nimblesessionid=29874154
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="IDN" ,DAAI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="IDN" ,DAAI TV
 https://dcunilive7-lh.akamaihd.net/i/dclive_1@135498/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1627403810~acl=%2fi%2fdclive_1%40135498*~data=hdntl~hmac=02702bb92fd2a63f49afa2da5ca85f28d475ab313ffb7d29a72854f426f53be3
 
 
