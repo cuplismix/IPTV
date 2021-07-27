@@ -80,9 +80,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b388400
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3b/Logo_Jawapos_TV.png" group-title="IDN" ,JawaPos TV
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_1640x856.png" group-title="IDN" ,RODJA TV
-https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w247407187_b1596000.m3u8
-
 #EXTINF:-1 tvg-id="jtv" tvg-logo="https://i.postimg.cc/Y0wNLNM9/jtv.png" group-title="IDN", JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 
@@ -110,8 +107,27 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="useephoto" tvg-logo="https://i.postimg.cc/hjmdHDz8/logo-useephoto-big.png" group-title="IDN" ,USEE PHOTO
 https://cdn10jtedge.useetv.com/joss/133/useephoto/chunklist_w1297909260_b1344100_sleng.m3u8?enc=c_f9K4QIE1fqzeTlKcspiA&uid=&exp=1627372703
 
-#EXTINF:-1 tvg-id="useeprime" tvg-logo="https://i.postimg.cc/fWxdCbhD/logo-useeprime-big1.png" group-title="LOKAL",USEE PRIME
-http://gpc.my.id/usee/useeprime.m3u8
+#EXTINF:-1 tvg-id="useeprime" tvg-logo="https://i.postimg.cc/fWxdCbhD/logo-useeprime-big1.png" group-title="LOKAL" ,USEE PRIME
+https://cdn10jtedge.useetv.com/joss/133/useeprime/chunklist_w2079877953_b894100_sleng.m3u8?enc=wW6QbiumSdnPuw00qT1AjQ&uid=&exp=1627372535
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="IDN" ,ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsZqn1vy/BALIKPAPAN.png" group-title="IDN" ,BALIKPAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png" group-title="IDN" ,BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="IDN" ,SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="IDN" ,SMTV Sumedang
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcnbJd3/TVTPI.png" group-title="TV DAERAH",TVTPI 
+http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
+
 
 
 
