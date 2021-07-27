@@ -175,13 +175,16 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="jitv" tvg-logo="https://i.postimg.cc/jSCHsn1M/logo-jitv-big.png" group-title="REGION" ,JITV
 http://202.169.224.76:1935/tv/jitv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="jtv" tvg-logo="https://i.postimg.cc/Y0wNLNM9/jtv.png" group-title="REGION", JTV
+#EXTINF:-1 tvg-id="jtv" tvg-logo="https://i.postimg.cc/Y0wNLNM9/jtv.png" group-title="REGION" ,JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63p461Bp/aku-gratis-kawanuatv.jpg" group-title="REGION", KAWANUA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63p461Bp/aku-gratis-kawanuatv.jpg" group-title="REGION" ,KAWANUA TV
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="REGION" ,PADANG TV
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="REGION" ,SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
