@@ -169,6 +169,12 @@ http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png" group-title="REGION" ,BANYUMAS TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@INDONESIA",Btv
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@INDONESIA",Btv
+http://122.248.43.138:1935/ch5/myStream/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT3grLq6/DIGDAYA-TV.png" group-title="REGION" ,DIGDAYA TV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 
