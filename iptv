@@ -4,7 +4,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://i.ibb.co/1scH52r/animax.png" group-title="KIDS" ,ANIMAX
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dr5snJ8/animax.png" group-title="KIDS" ,ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JC70Qzk/aniplus.png" group-title="KIDS" ,ANIPLUS
