@@ -1,0 +1,215 @@
+#EXTM3U
+
+================================================================== KIDS ===================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" group-title="KIDS" ,ANIMAX
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMTKYD3/Aniplus-Logo-Still-Video-removebg.png" group-title="KIDS" ,ANIPLUS
+http://210.210.155.35/dr9445/h/h02/index.m3u8
+
+------------------------------------------------------------------------------------------------------------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png" group-title="KIDS", BIZNET KIDS
+#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="KIDS",BOOMERANG
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cartoon_Network_2010_logo_variant.png" group-title="KIDS" ,CARTOON NETWORK
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/5jdsVnq/emblem-disney-channel-png-logo-5.png" group-title="KIDS", DISNEY CHANNEL
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/YP0s4hs/Png-Item-835216.png" group-title="KIDS", DISNEY JUNIOR
+https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+
+#EXTINF:-1 group-title="KIDS" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/Qpwvm0R/Dream-Works-logo-2.png" ,DREAMWORKS
+https://link.zozotv.xyz:443/Freemium1/unlimited99/134
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS" ,KIDS TV
+#https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/mkidz.png" group-title="KIDS", M KIDZ
+#http://202.158.57.131/session/3528374c-eef7-11eb-8016-b82a72d63267/uq2663/h/h98/index.m3u8?app_type=web&userid=107446&tkn=M654QIA4VQA5O4G8ANHPXEXD7WLQGJTI&chname=My_Kidz_HD
+
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/80/d1/35/80d13547def96642f042e1ebc7a0e32f.png" group-title="KIDS" ,NICK JR
+https://link.zozotv.xyz:443/Freemium1/unlimited99/137
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4jRdjBS/nickelodeon.png" group-title="KIDS" ,NICKELODEON
+https://link.zozotv.xyz:443/Freemium1/unlimited99/136
+
+------------------------------------------------------------------------------------------------------------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1  tvg-logo="https://i.ibb.co/P1wNRr5/Nickelodeon-log-removebg-1.png" group-title="KIDS" ,NICKELODEON ID
+#https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 group-title="KIDS" tvg-name="Zoomoo" tvg-logo="https://i.ibb.co/nszp4fg/zoomoo.png" ,ZOOMOO
+https://link.zozotv.xyz:443/Freemium1/unlimited99/139
+
+================================================================== ID ====================================================================
+
+#EXTINF:-1 group-title="ID" tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://aputra.xyz/epg/ANTV.id.png" ,ANTV
+http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 group-title="ID" tvg-logo="https://images.useetv.com/logo_beritasatu_big1.png?v=2.0.0.13" ,BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 group-title="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" ,BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF: group-title="ID" tvg-name="CBNC Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" ,CBNC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1487662180_b384000_sleng.m3u8
+
+#EXTINF: group-title="ID" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="http://assets.kompasiana.com/items/album/2017/03/18/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg" ,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1429171893_b384000_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="ID",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF: group-title="ID" tvg-id="Indosiar.id" tvg-name="INDOSIAR " tvg-logo="http://aputra.xyz/olympic/official_indosiar.jpg" ,INDOSIAR
+https://link.zozotv.xyz:443/Freemium1/unlimited99/45
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="ID BACKUP",INDOSIAR SD
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9F2sdNhY/inews.png" group-title="ID",INEWS
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+
+#EXTINF: group-title="ID" tvg-name="JAKARTA GLOBE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" ,JAKARTA GLOBE
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF:0 group-title="ID" tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="http://aputra.xyz/epg/KompasTv.id.png" ,KOMPAS TV
+https://stream-05.sg1.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXraZk3tWSBvhahu5IVAG0iW4)/dm/3/x72rofw/d/live-3.m3u8#cell=lsg1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="ID" ,MAGNA TV 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+ 
+#EXTINF: group-title="ID" tvg-id="MetroTV.id" tvg-name="MetroTV" tvg-logo="http://aputra.xyz/epg/MetroTV.id.png" ,METRO TV
+https://stream-03.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS6rnkIwzKBzlIuyIqCFIrt0)/dm/3/x75p70w/d/live-3.m3u8#cell=lsg1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo=" https://static.epg.best/id/MNCTV.id.png" group-title="ID",MNCTV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:0 group-title="ID" tvg-id="NET.id" tvg-name="NET" tvg-logo="http://aputra.xyz/epg/netHD.png" ,NET
+https://link.zozotv.xyz:443/Freemium1/unlimited99/50
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nusantara_TV.png/300px-Nusantara_TV.png" group-title="ID" ,NUSANTARA TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+
+#EXTINF:-1 group-title="ID" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://aputra.xyz/epg/RCTI.id.png" ,RCTI
+https://link.zozotv.xyz:443/Freemium1/unlimited99/47
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.kampungdesigner.com/wp-content/uploads/edd/2020/06/Logo-RTV-by-kampungdesigner.jpg" group-title="ID",RTV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF: group-title="ID" tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://aputra.xyz/epg/SCTV.id.png" ,SCTV
+https://link.zozotv.xyz:443/Freemium1/unlimited99/46
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="ID BACKUP",SCTV SD
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="ID" ,THE INDONESIA CHANNEL
+#https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+
+#EXTINF:0 group-title="ID" tvg-id="TRANS7HD.id" tvg-name="Trans7 FHD" tvg-logo="http://aputra.xyz/epg/Trans7.id.png" ,TRANS 7
+https://link.zozotv.xyz:443/Freemium1/unlimited99/44
+
+#EXTINF:0 group-title="ID" tvg-id="TRANSTVHD.id" tvg-name="Trans TV FHD" tvg-logo="http://aputra.xyz/epg/TransTV.id.png" ,TRANS TV
+https://link.zozotv.xyz:443/Freemium1/unlimited99/43
+ 
+#EXTINF: group-title="ID" tvg-name="TVONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdimTblEN83yy53Slpsu7teb3Oh4OQbh_-Kt9i8GQ-GQsM_9uO16HOg8WwrRnbXFu7bJc&usqp=CAU" ,TV ONE
+https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybLXI_FbAvnKbvHpGp_kjBEk)/dm/3/x619221/s/live-1.m3u8#cell=lsg1
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/02fM5vsB/NASIONAL.png" group-title="ID" ,TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+================================================================== REGION ====================================================================
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="REGION" ,ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1QW4qr4/BADAR-TV.png" group-title="REGION" ,BADAR TV
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsZqn1vy/BALIKPAPAN.png" group-title="REGION" ,BALIKPAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLTGnqGX/BMS-TV.png" group-title="REGION" ,BANYUMAS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="REGION" ,BATAM TV
+http://122.248.43.138:1935/ch5/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT3grLq6/DIGDAYA-TV.png" group-title="REGION" ,DIGDAYA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zv4sPCRB/INSPIRA-TV.png" group-title="REGION" ,INSPIRA TV
+https://v2.siar.us/inspiratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3b/Logo_Jawapos_TV.png" group-title="REGION" ,JAWA POS TV
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jitv" tvg-logo="https://i.postimg.cc/jSCHsn1M/logo-jitv-big.png" group-title="REGION" ,JITV
+http://202.169.224.76:1935/tv/jitv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="jtv" tvg-logo="https://i.postimg.cc/Y0wNLNM9/jtv.png" group-title="REGION" ,JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63p461Bp/aku-gratis-kawanuatv.jpg" group-title="REGION" ,KAWANUA TV
+http://122.248.43.138:1935/ch18/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="REGION" ,PADANG TV
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="REGION" ,SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="REGION" ,SMTV SUMEDANG
+http://122.248.43.138:1935/ch25/myStream/live.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h43TvgzW/aku-gratis-tvdesa.jpg" group-title="REGION" ,TV DESA
+http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0spsD6X/tvku.png" group-title="REGION" ,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcnbJd3/TVTPI.png" group-title=REGION" ,TVTPI 
+http://103.30.246.47:1935/tvtpi/smil:live.smil/chunklist_w1141324132_b1996608_sleng.m3u8
+
