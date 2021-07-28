@@ -45,10 +45,11 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/134
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS" ,KIDS TV
 #https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
+---------------------------------------------------------------------------------------------------------------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://mantul.org/logo/mkidz.png" group-title="KIDS", M KIDZ
-http://202.158.57.131/session/3528374c-eef7-11eb-8016-b82a72d63267/uq2663/h/h98/index.m3u8?app_type=web&userid=107446&tkn=M654QIA4VQA5O4G8ANHPXEXD7WLQGJTI&chname=My_Kidz_HD
+#http://202.158.57.131/session/3528374c-eef7-11eb-8016-b82a72d63267/uq2663/h/h98/index.m3u8?app_type=web&userid=107446&tkn=M654QIA4VQA5O4G8ANHPXEXD7WLQGJTI&chname=My_Kidz_HD
 
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/80/d1/35/80d13547def96642f042e1ebc7a0e32f.png" group-title="KIDS" ,NICK JR
 https://link.zozotv.xyz:443/Freemium1/unlimited99/137
