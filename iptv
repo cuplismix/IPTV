@@ -36,7 +36,7 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 #EXTINF:-1  tvg-logo="https://i.ibb.co/YP0s4hs/Png-Item-835216.png" group-title="KIDS", DISNEY JUNIOR
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
-#EXTINF:-1 group-title="KIDS" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/mFs2kBH/kisspng-dreamworks-animation-logo-film-studio-dreamworks-poppy-5b08597dcdb086-2181506515272738538425.png" ,DREAMWORKS
+#EXTINF:-1 group-title="KIDS" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/Qpwvm0R/Dream-Works-logo-2.png" ,DREAMWORKS
 https://link.zozotv.xyz:443/Freemium1/unlimited99/134
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
@@ -53,15 +53,16 @@ http://202.158.57.131/session/3528374c-eef7-11eb-8016-b82a72d63267/uq2663/h/h98/
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/80/d1/35/80d13547def96642f042e1ebc7a0e32f.png" group-title="KIDS" ,NICK JR
 https://link.zozotv.xyz:443/Freemium1/unlimited99/137
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/P1wNRr5/Nickelodeon-log-removebg-1.png" group-title="KIDS" ,NICKELODEON
+#EXTINF:-1  tvg-logo="https://i.ibb.co/WkpNXS5/kisspng-logo-nickelodeon-yukon-new-democratic-party-vector-nick-lyngsatlogo-5ba3fe4d292426-800184001.png" group-title="KIDS" ,NICKELODEON
 https://link.zozotv.xyz:443/Freemium1/unlimited99/136
 
+------------------------------------------------------------------------------------------------------------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-logo="https://i.ibb.co/P1wNRr5/Nickelodeon-log-removebg-1.png" group-title="KIDS" ,NICKELODEON ID
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 group-title="KIDS" tvg-name="Zoomoo" tvg-logo="https://i.ibb.co/Zh85z1D/Zoo-Moo-logo-svg.png" ,ZOOMOO
+#EXTINF:-1 group-title="KIDS" tvg-name="Zoomoo" tvg-logo="https://i.ibb.co/55crhF3/zoomoo.png" ,ZOOMOO
 https://link.zozotv.xyz:443/Freemium1/unlimited99/139
 
 ================================================================== ID ====================================================================
