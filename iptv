@@ -10,10 +10,11 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFP6Wt2T/aku-gratis-aniplus.jpg" group-title="KIDS" ,ANIPLUS
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 
+------------------------------------------------------------------------------------------------------------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzVHrqtF/aku-gratis-biznetkids.jpg" group-title="KIDS", BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
