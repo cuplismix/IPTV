@@ -4,10 +4,10 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="KIDS" ,ANIMAX
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/proxy/IM5Oi3Up-m4kV-JkjpOZZgbjJqdTt3H4YxsJQ45evD33sjZelwli8tZsi6vIYpBcHHXCbPy5Usf6dTf1JIrQwsolab6_Cko" group-title="KIDS" ,ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFP6Wt2T/aku-gratis-aniplus.jpg" group-title="KIDS" ,ANIPLUS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="KIDS" ,ANIPLUS
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,50 +18,50 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="KIDS",BOOMERANG
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="KIDS",BOOMERANG
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="KIDS" ,CARTOON NETWORK
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS" ,CARTOON NETWORK
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428085_ico.png" group-title="KIDS", DISNEY CHANNEL
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY CHANNEL
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="KIDS", DISNEY JUNIOR
+#EXTINF:-1  tvg-logo="https://www.seekpng.com/png/detail/202-2023000_1200px-disney-junior-svg-disney-junior-logo-png.png" group-title="KIDS", DISNEY JUNIOR
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
-#EXTINF:-1 group-title="KIDS" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" ,DREAMWORKS
+#EXTINF:-1 group-title="KIDS" tvg-name="Dreamworks" tvg-logo="https://toppng.com/uploads/preview/dreamworks-animation-dreamworks-logo-11563027999vsb4jok7jf.png" ,DREAMWORKS
 https://link.zozotv.xyz:443/Freemium1/unlimited99/134
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png" group-title="KIDS" ,KIDS TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS" ,KIDS TV
 #https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rscfnTTw/20210726-013852.jpg" group-title="KIDS", M KIDZ
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/mkidz.png" group-title="KIDS", M KIDZ
 http://202.158.57.131/session/3528374c-eef7-11eb-8016-b82a72d63267/uq2663/h/h98/index.m3u8?app_type=web&userid=107446&tkn=M654QIA4VQA5O4G8ANHPXEXD7WLQGJTI&chname=My_Kidz_HD
 
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="KIDS" ,NICK JR
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="KIDS" ,NICK JR
 https://link.zozotv.xyz:443/Freemium1/unlimited99/137
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/New_Nick_Logo_2015.jpg" group-title="KIDS" ,NICKELODEON
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS" ,NICKELODEON
 https://link.zozotv.xyz:443/Freemium1/unlimited99/136
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/New_Nick_Logo_2015.jpg" group-title="KIDS" ,NICKELODEON ID
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS" ,NICKELODEON ID
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 group-title="KIDS" tvg-name="Zoomoo" tvg-logo="https://i.ibb.co/pRvnw3k/OIJ.png" ,ZOOMOO
+#EXTINF:-1 group-title="KIDS" tvg-name="Zoomoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" ,ZOOMOO
 https://link.zozotv.xyz:443/Freemium1/unlimited99/139
 
 ================================================================== ID ====================================================================
