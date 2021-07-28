@@ -4,10 +4,10 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/proxy/IM5Oi3Up-m4kV-JkjpOZZgbjJqdTt3H4YxsJQ45evD33sjZelwli8tZsi6vIYpBcHHXCbPy5Usf6dTf1JIrQwsolab6_Cko" group-title="KIDS" ,ANIMAX
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/896/695/png-clipart-animax-logo-the-kindaichi-case-files-television-anime-asia-television-blue.png" group-title="KIDS" ,ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555" group-title="KIDS" ,ANIPLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMTKYD3/Aniplus-Logo-Still-Video-removebg.png" group-title="KIDS" ,ANIPLUS
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------
